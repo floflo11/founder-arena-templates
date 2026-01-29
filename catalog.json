@@ -1,0 +1,962 @@
+{
+  "version": "2.0",
+  "collected_at": "2026-01-29T00:05:54.799Z",
+  "source": "founderarena.org",
+  "usage_notes": [
+    "After cloning, run: pnpm install && pnpm dev",
+    "Icons and metadata are pre-branded for Founder Arena",
+    "Customize brand colors in tailwind.config.ts or globals.css"
+  ],
+  "templates": [
+    {
+      "id": "8QhCJAwn16K",
+      "name": "landing-page-hero-section-pricing-1",
+      "source_url": "https://v0.app/templates/8QhCJAwn16K",
+      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "testimonials",
+        "faq",
+        "footer",
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/8QhCJAwn16K.png",
+      "path": "templates/8QhCJAwn16K",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/8QhCJAwn16K my-project",
+      "collected_at": "2026-01-29T00:05:54.691Z",
+      "subdomain": "landing-page-hero-section-pricing-1.founderarena.org"
+    },
+    {
+      "id": "8Y9E0cStKrW",
+      "name": "landing-page-hero-section-pricing-2",
+      "source_url": "https://v0.app/templates/8Y9E0cStKrW",
+      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "testimonials",
+        "faq",
+        "footer",
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/8Y9E0cStKrW.png",
+      "path": "templates/8Y9E0cStKrW",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/8Y9E0cStKrW my-project",
+      "collected_at": "2026-01-29T00:05:54.696Z",
+      "subdomain": "landing-page-hero-section-pricing-2.founderarena.org"
+    },
+    {
+      "id": "99MAOQptgL3",
+      "name": "saas-dashboard-1",
+      "source_url": "https://v0.app/templates/99MAOQptgL3",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "jshguo",
+      "screenshot": "screenshots/99MAOQptgL3.png",
+      "path": "templates/99MAOQptgL3",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/99MAOQptgL3 my-project",
+      "collected_at": "2026-01-29T00:04:06.803Z",
+      "subdomain": "saas-dashboard-1.founderarena.org"
+    },
+    {
+      "id": "9dPeJBX8qhz",
+      "name": "saas-dashboard-2",
+      "source_url": "https://v0.app/templates/9dPeJBX8qhz",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/9dPeJBX8qhz.png",
+      "path": "templates/9dPeJBX8qhz",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/9dPeJBX8qhz my-project",
+      "collected_at": "2026-01-29T00:05:54.702Z",
+      "subdomain": "saas-dashboard-2.founderarena.org"
+    },
+    {
+      "id": "ALfQrxyrJ8b",
+      "name": "landing-page-hero-section-pricing-3",
+      "source_url": "https://v0.app/templates/ALfQrxyrJ8b",
+      "description": "A landing-page template with hero-section, pricing, footer",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "footer",
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/ALfQrxyrJ8b.png",
+      "path": "templates/ALfQrxyrJ8b",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/ALfQrxyrJ8b my-project",
+      "collected_at": "2026-01-29T00:05:54.705Z",
+      "subdomain": "landing-page-hero-section-pricing-3.founderarena.org"
+    },
+    {
+      "id": "JTMkCmk0GvC",
+      "name": "saas-dashboard-3",
+      "source_url": "https://v0.app/templates/JTMkCmk0GvC",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/JTMkCmk0GvC.png",
+      "path": "templates/JTMkCmk0GvC",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/JTMkCmk0GvC my-project",
+      "collected_at": "2026-01-29T00:05:54.708Z",
+      "subdomain": "saas-dashboard-3.founderarena.org"
+    },
+    {
+      "id": "Kt7yUWUBUBN",
+      "name": "saas-dashboard-4",
+      "source_url": "https://v0.app/templates/Kt7yUWUBUBN",
+      "description": "A saas-dashboard template with footer, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "footer",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/Kt7yUWUBUBN.png",
+      "path": "templates/Kt7yUWUBUBN",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/Kt7yUWUBUBN my-project",
+      "collected_at": "2026-01-29T00:05:54.711Z",
+      "subdomain": "saas-dashboard-4.founderarena.org"
+    },
+    {
+      "id": "NjOUgG6VT7X",
+      "name": "landing-page-hero-section-blog-1",
+      "source_url": "https://v0.app/templates/NjOUgG6VT7X",
+      "description": "A landing-page template with hero-section, footer, navigation",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard",
+        "blog"
+      ],
+      "features": [
+        "hero-section",
+        "footer",
+        "navigation",
+        "charts",
+        "blog"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/NjOUgG6VT7X.png",
+      "path": "templates/NjOUgG6VT7X",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/NjOUgG6VT7X my-project",
+      "collected_at": "2026-01-29T00:05:54.717Z",
+      "subdomain": "landing-page-hero-section-blog-1.founderarena.org"
+    },
+    {
+      "id": "R3n0gnvYFbO",
+      "name": "saas-dashboard-5",
+      "source_url": "https://v0.app/templates/R3n0gnvYFbO",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/R3n0gnvYFbO.png",
+      "path": "templates/R3n0gnvYFbO",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/R3n0gnvYFbO my-project",
+      "collected_at": "2026-01-29T00:05:54.719Z",
+      "subdomain": "saas-dashboard-5.founderarena.org"
+    },
+    {
+      "id": "SD8IPhg8bcC",
+      "name": "saas-dashboard-6",
+      "source_url": "https://v0.app/templates/SD8IPhg8bcC",
+      "description": "A saas-dashboard template with dashboard, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "dashboard",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/SD8IPhg8bcC.png",
+      "path": "templates/SD8IPhg8bcC",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/SD8IPhg8bcC my-project",
+      "collected_at": "2026-01-29T00:05:54.721Z",
+      "subdomain": "saas-dashboard-6.founderarena.org"
+    },
+    {
+      "id": "VGs1Sc5BbGi",
+      "name": "saas-dashboard-7",
+      "source_url": "https://v0.app/templates/VGs1Sc5BbGi",
+      "description": "A saas-dashboard template with navigation, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/VGs1Sc5BbGi.png",
+      "path": "templates/VGs1Sc5BbGi",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/VGs1Sc5BbGi my-project",
+      "collected_at": "2026-01-29T00:05:54.724Z",
+      "subdomain": "saas-dashboard-7.founderarena.org"
+    },
+    {
+      "id": "VZ9EEGUUq9M",
+      "name": "landing-page-hero-section-1",
+      "source_url": "https://v0.app/templates/VZ9EEGUUq9M",
+      "description": "A landing-page template with hero-section, charts",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "charts"
+      ],
+      "author": "webrenew",
+      "screenshot": "screenshots/VZ9EEGUUq9M.png",
+      "path": "templates/VZ9EEGUUq9M",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/VZ9EEGUUq9M my-project",
+      "collected_at": "2026-01-28T23:32:10.810Z",
+      "subdomain": "landing-page-hero-section-1.founderarena.org"
+    },
+    {
+      "id": "XQxxv76lK5w",
+      "name": "landing-page-hero-section-pricing-4",
+      "source_url": "https://v0.app/templates/XQxxv76lK5w",
+      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "testimonials",
+        "faq",
+        "footer",
+        "navigation",
+        "dashboard",
+        "charts"
+      ],
+      "author": "yadwinder",
+      "screenshot": "screenshots/XQxxv76lK5w.png",
+      "path": "templates/XQxxv76lK5w",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/XQxxv76lK5w my-project",
+      "collected_at": "2026-01-28T23:25:43.092Z",
+      "subdomain": "landing-page-hero-section-pricing-4.founderarena.org"
+    },
+    {
+      "id": "XhGK3naSZPB",
+      "name": "landing-page-hero-section-2",
+      "source_url": "https://v0.app/templates/XhGK3naSZPB",
+      "description": "A landing-page template with hero-section, charts",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/XhGK3naSZPB.png",
+      "path": "templates/XhGK3naSZPB",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/XhGK3naSZPB my-project",
+      "collected_at": "2026-01-29T00:05:54.734Z",
+      "subdomain": "landing-page-hero-section-2.founderarena.org"
+    },
+    {
+      "id": "XmzC9oi7g4m",
+      "name": "saas-dashboard-ecommerce-portfolio",
+      "source_url": "https://v0.app/templates/XmzC9oi7g4m",
+      "description": "A saas-dashboard template with footer, navigation, charts",
+      "use_cases": [
+        "saas-dashboard",
+        "ecommerce",
+        "portfolio"
+      ],
+      "features": [
+        "footer",
+        "navigation",
+        "charts",
+        "ecommerce",
+        "portfolio"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/XmzC9oi7g4m.png",
+      "path": "templates/XmzC9oi7g4m",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/XmzC9oi7g4m my-project",
+      "collected_at": "2026-01-29T00:05:54.739Z",
+      "subdomain": "saas-dashboard-ecommerce-portfolio.founderarena.org"
+    },
+    {
+      "id": "b7GDYVxuoGC",
+      "name": "saas-dashboard-8",
+      "source_url": "https://v0.app/templates/b7GDYVxuoGC",
+      "description": "A saas-dashboard template with navigation, dashboard, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "navigation",
+        "dashboard",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/b7GDYVxuoGC.png",
+      "path": "templates/b7GDYVxuoGC",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/b7GDYVxuoGC my-project",
+      "collected_at": "2026-01-29T00:05:54.744Z",
+      "subdomain": "saas-dashboard-8.founderarena.org"
+    },
+    {
+      "id": "d7j5B58dlp4",
+      "name": "saas-dashboard-authentication-blog",
+      "source_url": "https://v0.app/templates/d7j5B58dlp4",
+      "description": "A saas-dashboard template with dashboard, charts, authentication",
+      "use_cases": [
+        "saas-dashboard",
+        "blog"
+      ],
+      "features": [
+        "dashboard",
+        "charts",
+        "authentication",
+        "blog"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/d7j5B58dlp4.png",
+      "path": "templates/d7j5B58dlp4",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/d7j5B58dlp4 my-project",
+      "collected_at": "2026-01-29T00:05:54.749Z",
+      "subdomain": "saas-dashboard-authentication-blog.founderarena.org"
+    },
+    {
+      "id": "dDPFIVqPGXR",
+      "name": "landing-page-hero-section-testimonials-1",
+      "source_url": "https://v0.app/templates/dDPFIVqPGXR",
+      "description": "A landing-page template with hero-section, testimonials, footer",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard",
+        "ecommerce",
+        "blog",
+        "portfolio"
+      ],
+      "features": [
+        "hero-section",
+        "testimonials",
+        "footer",
+        "charts",
+        "ecommerce",
+        "blog",
+        "portfolio"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/dDPFIVqPGXR.png",
+      "path": "templates/dDPFIVqPGXR",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/dDPFIVqPGXR my-project",
+      "collected_at": "2026-01-29T00:05:54.752Z",
+      "subdomain": "landing-page-hero-section-testimonials-1.founderarena.org"
+    },
+    {
+      "id": "dNTdgBEhEAn",
+      "name": "landing-page-hero-section-pricing-5",
+      "source_url": "https://v0.app/templates/dNTdgBEhEAn",
+      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard",
+        "blog"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "testimonials",
+        "faq",
+        "footer",
+        "navigation",
+        "charts",
+        "blog"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/dNTdgBEhEAn.png",
+      "path": "templates/dNTdgBEhEAn",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/dNTdgBEhEAn my-project",
+      "collected_at": "2026-01-29T00:05:54.755Z",
+      "subdomain": "landing-page-hero-section-pricing-5.founderarena.org"
+    },
+    {
+      "id": "hkRpZoLOrJC",
+      "name": "saas-dashboard-9",
+      "source_url": "https://v0.app/templates/hkRpZoLOrJC",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "estebansuarez",
+      "screenshot": "screenshots/hkRpZoLOrJC.png",
+      "path": "templates/hkRpZoLOrJC",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/hkRpZoLOrJC my-project",
+      "collected_at": "2026-01-28T23:19:18.527Z",
+      "subdomain": "saas-dashboard-9.founderarena.org"
+    },
+    {
+      "id": "mA8N4h1POSv",
+      "name": "saas-dashboard-10",
+      "source_url": "https://v0.app/templates/mA8N4h1POSv",
+      "description": "A saas-dashboard template with footer, navigation, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "footer",
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/mA8N4h1POSv.png",
+      "path": "templates/mA8N4h1POSv",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/mA8N4h1POSv my-project",
+      "collected_at": "2026-01-29T00:05:54.762Z",
+      "subdomain": "saas-dashboard-10.founderarena.org"
+    },
+    {
+      "id": "mE2nwltmoDT",
+      "name": "saas-dashboard-11",
+      "source_url": "https://v0.app/templates/mE2nwltmoDT",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "abilshr",
+      "screenshot": "screenshots/mE2nwltmoDT.png",
+      "path": "templates/mE2nwltmoDT",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/mE2nwltmoDT my-project",
+      "collected_at": "2026-01-28T23:44:11.920Z",
+      "subdomain": "saas-dashboard-11.founderarena.org"
+    },
+    {
+      "id": "oZxBJ6zcOsz",
+      "name": "saas-dashboard-12",
+      "source_url": "https://v0.app/templates/oZxBJ6zcOsz",
+      "description": "A saas-dashboard template with navigation, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "navigation",
+        "charts"
+      ],
+      "author": "joyco",
+      "screenshot": "screenshots/oZxBJ6zcOsz.png",
+      "path": "templates/oZxBJ6zcOsz",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/oZxBJ6zcOsz my-project",
+      "collected_at": "2026-01-28T23:57:46.765Z",
+      "subdomain": "saas-dashboard-12.founderarena.org"
+    },
+    {
+      "id": "qK8iWfx4VMX",
+      "name": "saas-dashboard-blog",
+      "source_url": "https://v0.app/templates/qK8iWfx4VMX",
+      "description": "A saas-dashboard template with charts, blog",
+      "use_cases": [
+        "saas-dashboard",
+        "blog"
+      ],
+      "features": [
+        "charts",
+        "blog"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/qK8iWfx4VMX.png",
+      "path": "templates/qK8iWfx4VMX",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/qK8iWfx4VMX my-project",
+      "collected_at": "2026-01-29T00:05:54.769Z",
+      "subdomain": "saas-dashboard-blog.founderarena.org"
+    },
+    {
+      "id": "sV0OtrkXM6x",
+      "name": "landing-page-hero-section-pricing-6",
+      "source_url": "https://v0.app/templates/sV0OtrkXM6x",
+      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard",
+        "blog"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "testimonials",
+        "faq",
+        "footer",
+        "navigation",
+        "charts",
+        "blog"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/sV0OtrkXM6x.png",
+      "path": "templates/sV0OtrkXM6x",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/sV0OtrkXM6x my-project",
+      "collected_at": "2026-01-29T00:05:54.777Z",
+      "subdomain": "landing-page-hero-section-pricing-6.founderarena.org"
+    },
+    {
+      "id": "shuOX59VNOv",
+      "name": "saas-dashboard-13",
+      "source_url": "https://v0.app/templates/shuOX59VNOv",
+      "description": "A saas-dashboard template with navigation, dashboard, charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "navigation",
+        "dashboard",
+        "charts"
+      ],
+      "author": "webrenew",
+      "screenshot": "screenshots/shuOX59VNOv.png",
+      "path": "templates/shuOX59VNOv",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/shuOX59VNOv my-project",
+      "collected_at": "2026-01-28T23:50:38.371Z",
+      "subdomain": "saas-dashboard-13.founderarena.org"
+    },
+    {
+      "id": "tnZGzubtsTc",
+      "name": "landing-page-hero-section-blog-2",
+      "source_url": "https://v0.app/templates/tnZGzubtsTc",
+      "description": "A landing-page template with hero-section, navigation, charts",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard",
+        "blog"
+      ],
+      "features": [
+        "hero-section",
+        "navigation",
+        "charts",
+        "blog"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/tnZGzubtsTc.png",
+      "path": "templates/tnZGzubtsTc",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/tnZGzubtsTc my-project",
+      "collected_at": "2026-01-29T00:05:54.783Z",
+      "subdomain": "landing-page-hero-section-blog-2.founderarena.org"
+    },
+    {
+      "id": "v1tIli3svjV",
+      "name": "saas-dashboard-14",
+      "source_url": "https://v0.app/templates/v1tIli3svjV",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/v1tIli3svjV.png",
+      "path": "templates/v1tIli3svjV",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/v1tIli3svjV my-project",
+      "collected_at": "2026-01-29T00:05:54.786Z",
+      "subdomain": "saas-dashboard-14.founderarena.org"
+    },
+    {
+      "id": "v9Hg1dBb5o3",
+      "name": "saas-dashboard-15",
+      "source_url": "https://v0.app/templates/v9Hg1dBb5o3",
+      "description": "A saas-dashboard template with charts",
+      "use_cases": [
+        "saas-dashboard"
+      ],
+      "features": [
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/v9Hg1dBb5o3.png",
+      "path": "templates/v9Hg1dBb5o3",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/v9Hg1dBb5o3 my-project",
+      "collected_at": "2026-01-29T00:05:54.788Z",
+      "subdomain": "saas-dashboard-15.founderarena.org"
+    },
+    {
+      "id": "wNB9dqGZXGU",
+      "name": "landing-page-hero-section-testimonials-2",
+      "source_url": "https://v0.app/templates/wNB9dqGZXGU",
+      "description": "A landing-page template with hero-section, testimonials, footer",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "testimonials",
+        "footer",
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/wNB9dqGZXGU.png",
+      "path": "templates/wNB9dqGZXGU",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/wNB9dqGZXGU my-project",
+      "collected_at": "2026-01-29T00:05:54.791Z",
+      "subdomain": "landing-page-hero-section-testimonials-2.founderarena.org"
+    },
+    {
+      "id": "wWvJxkk3ra7",
+      "name": "landing-page-hero-section-3",
+      "source_url": "https://v0.app/templates/wWvJxkk3ra7",
+      "description": "A landing-page template with hero-section, footer, navigation",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "footer",
+        "navigation",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/wWvJxkk3ra7.png",
+      "path": "templates/wWvJxkk3ra7",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/wWvJxkk3ra7 my-project",
+      "collected_at": "2026-01-29T00:05:54.794Z",
+      "subdomain": "landing-page-hero-section-3.founderarena.org"
+    },
+    {
+      "id": "zdiN8dHwaaT",
+      "name": "landing-page-hero-section-pricing-7",
+      "source_url": "https://v0.app/templates/zdiN8dHwaaT",
+      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "testimonials",
+        "faq",
+        "footer",
+        "navigation",
+        "dashboard",
+        "charts"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/zdiN8dHwaaT.png",
+      "path": "templates/zdiN8dHwaaT",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "shadcn",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/zdiN8dHwaaT my-project",
+      "collected_at": "2026-01-29T00:05:54.797Z",
+      "subdomain": "landing-page-hero-section-pricing-7.founderarena.org"
+    },
+    {
+      "id": "zoQPxUaTqvE",
+      "name": "landing-page-hero-section-pricing-8",
+      "source_url": "https://v0.app/templates/zoQPxUaTqvE",
+      "description": "A landing-page template with hero-section, pricing, faq",
+      "use_cases": [
+        "landing-page",
+        "saas-dashboard",
+        "portfolio"
+      ],
+      "features": [
+        "hero-section",
+        "pricing",
+        "faq",
+        "footer",
+        "navigation",
+        "charts",
+        "portfolio"
+      ],
+      "author": "unknown",
+      "screenshot": "screenshots/zoQPxUaTqvE.png",
+      "path": "templates/zoQPxUaTqvE",
+      "tech_stack": [
+        "nextjs",
+        "react",
+        "tailwind",
+        "framer-motion",
+        "lucide-icons"
+      ],
+      "clone_command": "npx degit floflo11/founder-arena-templates/templates/zoQPxUaTqvE my-project",
+      "collected_at": "2026-01-29T00:05:54.799Z",
+      "subdomain": "landing-page-hero-section-pricing-8.founderarena.org"
+    }
+  ]
+}
