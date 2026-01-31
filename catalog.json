@@ -12,7 +12,7 @@
       "id": "1fwaS3xF7MM",
       "name": "saas-dashboard-blog-1",
       "source_url": "https://v0.app/templates/1fwaS3xF7MM",
-      "description": "A saas-dashboard template with charts, blog",
+      "description": "Blog and articles website with full-bleed robot hero imagery, article categories, and topic pages. Clean content-focused layout suitable for a tech blog or media publication.",
       "use_cases": [
         "saas-dashboard",
         "blog"
@@ -38,7 +38,7 @@
       "id": "1w6b0ZtZeUK",
       "name": "saas-dashboard-1",
       "source_url": "https://v0.app/templates/1w6b0ZtZeUK",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI video clip management dashboard with dark theme. Grid of video projects with clip counts, dates, and thumbnails. Includes 'Start Trial' CTA and 'New Project' creation. Suitable for AI video editing or content creation tools.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -64,7 +64,7 @@
       "id": "5TN93pl3bRS",
       "name": "saas-dashboard-2",
       "source_url": "https://v0.app/templates/5TN93pl3bRS",
-      "description": "A saas-dashboard template with charts",
+      "description": "Minimalist AI voice agent interface (ElevenLabs-style). Clean white card centered on page with avatar orb and 'Start/End conversation' buttons. Ideal for AI chatbot, voice assistant, or conversational AI product landing pages.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -90,7 +90,7 @@
       "id": "7JdqEwKmtIG",
       "name": "saas-dashboard-3",
       "source_url": "https://v0.app/templates/7JdqEwKmtIG",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI video ad generator tool with dark cinematic theme. Text prompt input, style selector chips (Luxury, Minimal, Retro, Cinematic, Direct to Camera), and Generate button. Suitable for AI-powered creative tools or ad generators.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -115,7 +115,7 @@
       "id": "8QhCJAwn16K",
       "name": "landing-page-hero-section-pricing-1",
       "source_url": "https://v0.app/templates/8QhCJAwn16K",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "SaaS landing page for AI meeting transcription tool. Light blue/orange theme with hero section showing meeting summary UI, feature checklist (deal tracking, sentiment analysis, CRM updates), and navigation with Features, Pricing, Docs, FAQ links.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -147,7 +147,7 @@
       "id": "8Y9E0cStKrW",
       "name": "landing-page-hero-section-pricing-2",
       "source_url": "https://v0.app/templates/8Y9E0cStKrW",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "SaaS landing page with dark navy/pink color scheme. Hero section with 'Work smarter, not harder' headline, embedded dashboard preview showing e-commerce order metrics ($40K revenue, 1,789 orders). Navigation includes Features, Testimonials, Pricing, FAQ.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -179,7 +179,7 @@
       "id": "99MAOQptgL3",
       "name": "saas-dashboard-4",
       "source_url": "https://v0.app/templates/99MAOQptgL3",
-      "description": "A saas-dashboard template with charts",
+      "description": "Interactive 3D globe-to-map visualization component. Note: may show build error due to font dependency; the template renders a globe transformation animation. Best for data visualization or geography-related apps.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -203,7 +203,7 @@
       "id": "9FIZoMXO1Us",
       "name": "saas-dashboard-5",
       "source_url": "https://v0.app/templates/9FIZoMXO1Us",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI Data Scientist tool with dark theme. CSV file upload zone with drag-and-drop, sample dataset loader (Titanic), and 'AI-Powered Analytics' badge. Suitable for data analysis tools, CSV processors, or AI analytics dashboards.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -228,7 +228,7 @@
       "id": "9dPeJBX8qhz",
       "name": "saas-dashboard-6",
       "source_url": "https://v0.app/templates/9dPeJBX8qhz",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI drawing and image generation tool with purple accent theme. Split layout with drawing canvas (pen/move/eraser tools, color palette) on left and AI generation panel on right with prompt input, seed control, and stroke guidance.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -253,7 +253,7 @@
       "id": "A889OrJ2nD0",
       "name": "saas-dashboard-7",
       "source_url": "https://v0.app/templates/A889OrJ2nD0",
-      "description": "A saas-dashboard template with charts",
+      "description": "2048 puzzle game clone with score tracking, animated tile merging, and keyboard controls. Clean card-based UI with New Game button. Fun interactive game template.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -279,7 +279,7 @@
       "id": "ALfQrxyrJ8b",
       "name": "landing-page-hero-section-pricing-3",
       "source_url": "https://v0.app/templates/ALfQrxyrJ8b",
-      "description": "A landing-page template with hero-section, pricing, footer",
+      "description": "Calendar or scheduling template. Note: may show build error due to missing CalSans font dependency. Requires font file fix before use.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -310,7 +310,7 @@
       "id": "AcAuE60suaF",
       "name": "saas-dashboard-testimonials",
       "source_url": "https://v0.app/templates/AcAuE60suaF",
-      "description": "A saas-dashboard template with testimonials, charts",
+      "description": "Dark-themed testimonials carousel showcasing quotes from tech executives. Animated card slider with company names, titles, and star ratings. Useful as a social proof section component.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -336,7 +336,7 @@
       "id": "Aftb1Fdaj7K",
       "name": "landing-page-hero-section-1",
       "source_url": "https://v0.app/templates/Aftb1Fdaj7K",
-      "description": "A landing-page template with hero-section, charts",
+      "description": "Premium Australian skincare e-commerce store with mint/pink color palette. Product cards with 'Add to Cart', hero banner, and elegant brand positioning. Suitable for beauty, wellness, or luxury product shops.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -363,7 +363,7 @@
       "id": "BKGFWPsAoBu",
       "name": "saas-dashboard-8",
       "source_url": "https://v0.app/templates/BKGFWPsAoBu",
-      "description": "A saas-dashboard template with charts",
+      "description": "Google Calendar-style weekly calendar view with colorful event blocks. Shows time slots, day columns, and draggable events. Suitable for scheduling apps, booking systems, or productivity dashboards.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -388,7 +388,7 @@
       "id": "ELMX6m7UodU",
       "name": "saas-dashboard-ecommerce-1",
       "source_url": "https://v0.app/templates/ELMX6m7UodU",
-      "description": "A saas-dashboard template with charts, ecommerce",
+      "description": "Dark loading/splash screen with animated logo and progress indicator. Minimal dark background with centered branding. Could be used as an app loading state or intro animation.",
       "use_cases": [
         "saas-dashboard",
         "ecommerce"
@@ -415,7 +415,7 @@
       "id": "FPle6SOomI6",
       "name": "saas-dashboard-9",
       "source_url": "https://v0.app/templates/FPle6SOomI6",
-      "description": "A saas-dashboard template with charts",
+      "description": "Metallic silver border card component showcase. Decorative UI element with gradient border effect. Useful as a premium card design component for feature highlights or pricing tiers.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -438,7 +438,7 @@
       "id": "FcTLpL2JvgL",
       "name": "saas-dashboard-authentication-1",
       "source_url": "https://v0.app/templates/FcTLpL2JvgL",
-      "description": "A saas-dashboard template with charts, authentication",
+      "description": "Authentication template with login/signup flow. Note: root route redirects to an auth page, so the main page may show a 404. Check /login or /signup routes for the actual UI.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -464,7 +464,7 @@
       "id": "FjVZH4DboBv",
       "name": "saas-dashboard-authentication-2",
       "source_url": "https://v0.app/templates/FjVZH4DboBv",
-      "description": "A saas-dashboard template with charts, authentication",
+      "description": "Split-screen login page with purple/pink gradient left panel and Google sign-in on the right. Clean form with email/password fields. Good for SaaS or app authentication pages.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -490,7 +490,7 @@
       "id": "GYwzjanNOrw",
       "name": "saas-dashboard-ecommerce-portfolio-1",
       "source_url": "https://v0.app/templates/GYwzjanNOrw",
-      "description": "A saas-dashboard template with footer, navigation, charts",
+      "description": "Minimal furniture e-commerce store with product cards, categories nav (New, Men, Women, Kids), and clean white layout. Product images with pricing and 'Add to Cart' actions. Suitable for home goods or lifestyle brands.",
       "use_cases": [
         "saas-dashboard",
         "ecommerce",
@@ -522,7 +522,7 @@
       "id": "GzHBHQAiS2F",
       "name": "saas-dashboard-10",
       "source_url": "https://v0.app/templates/GzHBHQAiS2F",
-      "description": "A saas-dashboard template with navigation, charts",
+      "description": "ChatGPT-style AI chatbot interface with sidebar conversation history, model selector, and message input. Dark/light mode support. Ideal for AI assistant, customer support bot, or LLM playground UIs.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -549,7 +549,7 @@
       "id": "H6d9DNE50jO",
       "name": "saas-dashboard-11",
       "source_url": "https://v0.app/templates/H6d9DNE50jO",
-      "description": "A saas-dashboard template with charts",
+      "description": "Flappy Bird game clone with pixel art graphics, score counter, and tap-to-fly mechanics. Fun interactive game template with retro aesthetic.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -574,7 +574,7 @@
       "id": "JTMkCmk0GvC",
       "name": "saas-dashboard-12",
       "source_url": "https://v0.app/templates/JTMkCmk0GvC",
-      "description": "A saas-dashboard template with charts",
+      "description": "3D mechanical keyboard visualization with terminal output display on dark background. Interactive WebGL component showing keypress animations. Creative demo for dev tools or hardware showcases.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -599,7 +599,7 @@
       "id": "JasJSpesglw",
       "name": "saas-dashboard-13",
       "source_url": "https://v0.app/templates/JasJSpesglw",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI Social Media Intelligence SaaS landing page with purple gradient hero. 'Wavelength' branding with analytics dashboard preview. Suitable for social listening, AI marketing, or data analytics product pages.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -624,7 +624,7 @@
       "id": "Kt7yUWUBUBN",
       "name": "saas-dashboard-14",
       "source_url": "https://v0.app/templates/Kt7yUWUBUBN",
-      "description": "A saas-dashboard template with footer, charts",
+      "description": "Minimal AI chat interface centered over a forest landscape background. Clean message input with send button. Atmospheric, ideal for AI chatbot or conversational product demos.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -650,7 +650,7 @@
       "id": "Ln5i4EVw63N",
       "name": "saas-dashboard-authentication-3",
       "source_url": "https://v0.app/templates/Ln5i4EVw63N",
-      "description": "A saas-dashboard template with charts, authentication",
+      "description": "Login with X (Twitter) authentication page. Single social sign-in button with X branding. Minimal auth flow template for apps using Twitter/X OAuth.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -676,7 +676,7 @@
       "id": "NjOUgG6VT7X",
       "name": "landing-page-hero-section-blog-1",
       "source_url": "https://v0.app/templates/NjOUgG6VT7X",
-      "description": "A landing-page template with hero-section, footer, navigation",
+      "description": "Developer portfolio with dark green terminal aesthetic. Monospace typography, code-like layout, and matrix-style design. Shows projects and skills in a hacker/developer theme.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -707,7 +707,7 @@
       "id": "Nynl8DJ6xUH",
       "name": "saas-dashboard-15",
       "source_url": "https://v0.app/templates/Nynl8DJ6xUH",
-      "description": "A saas-dashboard template with navigation, charts",
+      "description": "Digital agency landing page with dark theme and purple CTA buttons. Hero section with 'Transform Your Vision Into Reality' messaging. Suitable for web design agencies or creative studios.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -733,7 +733,7 @@
       "id": "ONoAgsMmNOt",
       "name": "landing-page-pricing",
       "source_url": "https://v0.app/templates/ONoAgsMmNOt",
-      "description": "A landing-page template with pricing, navigation, charts",
+      "description": "AI automation agency landing page with dark theme and 3D robot illustration. Hero section promoting AI-powered business automation services. Features, testimonials, and pricing sections.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -762,7 +762,7 @@
       "id": "Oi5INHKYsqg",
       "name": "landing-page-hero-section-2",
       "source_url": "https://v0.app/templates/Oi5INHKYsqg",
-      "description": "A landing-page template with hero-section, footer, charts",
+      "description": "Blog template with mountain landscape hero image and CMS integration. Clean article listing with categories, author info, and reading time. Good for content-driven sites or tech blogs.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -790,7 +790,7 @@
       "id": "OxkUxmTykyl",
       "name": "saas-dashboard-16",
       "source_url": "https://v0.app/templates/OxkUxmTykyl",
-      "description": "A saas-dashboard template with charts",
+      "description": "3D visualization template using Three.js. Note: may show build error due to three-mesh-bvh import issue. Template renders WebGL 3D scenes when dependencies are resolved.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -814,7 +814,7 @@
       "id": "PBmufbsZkj0",
       "name": "landing-page-hero-section-3",
       "source_url": "https://v0.app/templates/PBmufbsZkj0",
-      "description": "A landing-page template with hero-section, footer, charts",
+      "description": "Outdoor apparel e-commerce store with heritage/vintage theme. 'Frontier 1607' branding with rugged product photography, collection browsing, and earthy color palette. Suitable for outdoor gear or workwear brands.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -842,7 +842,7 @@
       "id": "Pf7lw1nypu5",
       "name": "saas-dashboard-17",
       "source_url": "https://v0.app/templates/Pf7lw1nypu5",
-      "description": "A saas-dashboard template with navigation, dashboard, charts",
+      "description": "Simple 404 error page template. Clean layout with 'page not found' messaging and navigation back to home. Useful as a standalone error page component.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -869,7 +869,7 @@
       "id": "QeFZttwuC80",
       "name": "saas-dashboard-18",
       "source_url": "https://v0.app/templates/QeFZttwuC80",
-      "description": "A saas-dashboard template with charts",
+      "description": "Designer lighting e-commerce store with minimal white aesthetic. Product grid with artistic photography, pricing, and filtering. Suitable for luxury home decor, furniture, or curated product stores.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -895,7 +895,7 @@
       "id": "QgiMxaR9ag3",
       "name": "saas-dashboard-authentication-4",
       "source_url": "https://v0.app/templates/QgiMxaR9ag3",
-      "description": "A saas-dashboard template with charts, authentication",
+      "description": "Login page with image carousel preview panel. Split layout with authentication form on one side and rotating product/feature screenshots. Good for SaaS or app onboarding flows.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -921,7 +921,7 @@
       "id": "R1iL1WGkMKP",
       "name": "saas-dashboard-19",
       "source_url": "https://v0.app/templates/R1iL1WGkMKP",
-      "description": "A saas-dashboard template with charts",
+      "description": "Animated gradient ghost character floating on dark background. Creative CSS/canvas animation component. Fun decorative element for Halloween-themed or playful sites.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -947,7 +947,7 @@
       "id": "R3n0gnvYFbO",
       "name": "saas-dashboard-20",
       "source_url": "https://v0.app/templates/R3n0gnvYFbO",
-      "description": "A saas-dashboard template with charts",
+      "description": "Creative agency landing page with WebGL effects and warm gradient colors. Bold 'Acme' branding with interactive 3D elements. Suitable for design studios or creative technology firms.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -972,7 +972,7 @@
       "id": "RjIZayM2Jjj",
       "name": "landing-page-hero-section-pricing-4",
       "source_url": "https://v0.app/templates/RjIZayM2Jjj",
-      "description": "A landing-page template with hero-section, pricing, faq",
+      "description": "SaaS landing page with dark theme and scrolling logo bar. 'LeLo' branding with feature highlights, testimonials, and pricing sections. Clean layout suitable for B2B SaaS products.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -1006,7 +1006,7 @@
       "id": "RuXh6tOAPHg",
       "name": "saas-dashboard-21",
       "source_url": "https://v0.app/templates/RuXh6tOAPHg",
-      "description": "A saas-dashboard template with navigation, charts",
+      "description": "Design Events Guide 2026 monthly calendar with event listings and date navigation. Clean layout for event scheduling, conference calendars, or community event pages.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1032,7 +1032,7 @@
       "id": "SD8IPhg8bcC",
       "name": "saas-dashboard-22",
       "source_url": "https://v0.app/templates/SD8IPhg8bcC",
-      "description": "A saas-dashboard template with dashboard, charts",
+      "description": "CRM sales dashboard with gold glassmorphism theme. Pipeline metrics, deal tracking, revenue charts, and contact management. Dark/gold color scheme suitable for premium business tools.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1058,7 +1058,7 @@
       "id": "T58xe0hGtYx",
       "name": "saas-dashboard-23",
       "source_url": "https://v0.app/templates/T58xe0hGtYx",
-      "description": "A saas-dashboard template with charts",
+      "description": "MS Paint clone with retro Windows 95-style UI. Drawing canvas with tool palette (pencil, brush, shapes, fill, text), color picker, and menu bar. Nostalgic pixel art creation tool.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1083,7 +1083,7 @@
       "id": "Tpxvlz16QiJ",
       "name": "saas-dashboard-24",
       "source_url": "https://v0.app/templates/Tpxvlz16QiJ",
-      "description": "A saas-dashboard template with navigation, charts",
+      "description": "AI Portrait Generation tool with clean white UI. Text prompt input, style/background/lighting/pose dropdown selectors, quality setting (720p), and 'Generate Portrait' button. Suitable for AI image generation products.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1109,7 +1109,7 @@
       "id": "Uwmr1erx4dK",
       "name": "saas-dashboard-25",
       "source_url": "https://v0.app/templates/Uwmr1erx4dK",
-      "description": "A saas-dashboard template with charts",
+      "description": "Visual workflow editor/automation builder template. Note: may show build error due to missing workflow dialog module. Template includes toolbar, output panel, node editing, and templates dialog for workflow automation UIs.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1134,7 +1134,7 @@
       "id": "VEoDcF84vxz",
       "name": "saas-dashboard-26",
       "source_url": "https://v0.app/templates/VEoDcF84vxz",
-      "description": "A saas-dashboard template with charts",
+      "description": "Login/sign-in page with glassmorphism card over purple/pink gradient background. 'Welcome Back' heading, email/password fields, social login buttons (Google, Apple, Meta), and password recovery link.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1159,7 +1159,7 @@
       "id": "VGs1Sc5BbGi",
       "name": "saas-dashboard-27",
       "source_url": "https://v0.app/templates/VGs1Sc5BbGi",
-      "description": "A saas-dashboard template with navigation, charts",
+      "description": "LLM memory tool waitlist/landing page. Purple gradient background with centered card, 'Help your LLM remember the right stuff' headline, email waitlist signup, Waitlist/Manifesto tabs, and dark/light theme toggle.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1185,7 +1185,7 @@
       "id": "VN4mwxQQOIP",
       "name": "saas-dashboard-28",
       "source_url": "https://v0.app/templates/VN4mwxQQOIP",
-      "description": "A saas-dashboard template with charts",
+      "description": "Single-page application template. Note: may show build error due to layout module resolution. Requires fixing import paths before use.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1210,7 +1210,7 @@
       "id": "VZ9EEGUUq9M",
       "name": "landing-page-hero-section-4",
       "source_url": "https://v0.app/templates/VZ9EEGUUq9M",
-      "description": "A landing-page template with hero-section, charts",
+      "description": "Dark creative portfolio landing page with 'Transform Your Vision Into Reality' headline. GSAP animation-ready with Midjourney-style imagery references. Suitable for creative agencies or design portfolio sites.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -1237,7 +1237,7 @@
       "id": "W0v7PBF5ev4",
       "name": "landing-page-hero-section-testimonials-1",
       "source_url": "https://v0.app/templates/W0v7PBF5ev4",
-      "description": "A landing-page template with hero-section, testimonials, faq",
+      "description": "AI Version Control tool (YOYO) landing page. Bold orange-to-pink gradient hero with 'Undo AI mistakes instantly' messaging. Product screenshots showing version history UI. 'INSTALL FOR FREE' and 'DM FOUNDER' CTAs.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -1268,7 +1268,7 @@
       "id": "X6XcPALhbJD",
       "name": "saas-dashboard-portfolio-1",
       "source_url": "https://v0.app/templates/X6XcPALhbJD",
-      "description": "A saas-dashboard template with charts, portfolio",
+      "description": "Product designer portfolio with dark theme. Split layout with bold 'I design products that people love' headline, abstract 3D art, case study cards, company logo bar, and 'Hire me' CTA. Professional and modern.",
       "use_cases": [
         "saas-dashboard",
         "portfolio"
@@ -1295,7 +1295,7 @@
       "id": "XAMOoZPMUO5",
       "name": "saas-dashboard-29",
       "source_url": "https://v0.app/templates/XAMOoZPMUO5",
-      "description": "A saas-dashboard template with charts",
+      "description": "Athletic e-commerce store with AI virtual try-on feature. Clean white layout with category nav (New, Men, Women, Kids), featured products (shoes, apparel), and 'DROP YOUR PHOTO' try-on widget. Nike-inspired design.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1320,7 +1320,7 @@
       "id": "XQxxv76lK5w",
       "name": "landing-page-hero-section-pricing-5",
       "source_url": "https://v0.app/templates/XQxxv76lK5w",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "AI coding agents SaaS landing page. Dark green/teal gradient with 'Unleash the Power of AI Agents' headline. Embedded VS Code screenshot. Nav: Features, Pricing, Testimonials. 'Signup for free' CTA.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -1354,7 +1354,7 @@
       "id": "XhGK3naSZPB",
       "name": "landing-page-hero-section-5",
       "source_url": "https://v0.app/templates/XhGK3naSZPB",
-      "description": "A landing-page template with hero-section, charts",
+      "description": "Experimental design studio landing page. Dark minimal aesthetic with amber/orange flip-card typography. 'Studies in Controlled Environments' tagline. Links to experiments and signals. Avant-garde creative branding.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -1382,7 +1382,7 @@
       "id": "XmzC9oi7g4m",
       "name": "saas-dashboard-ecommerce-portfolio-2",
       "source_url": "https://v0.app/templates/XmzC9oi7g4m",
-      "description": "A saas-dashboard template with footer, navigation, charts",
+      "description": "Template with image/favicon metadata. Note: may show build error due to corrupted favicon file. Requires replacing the favicon.ico before use.",
       "use_cases": [
         "saas-dashboard",
         "ecommerce",
@@ -1413,7 +1413,7 @@
       "id": "YM6vloMgY7Y",
       "name": "landing-page-hero-section-portfolio",
       "source_url": "https://v0.app/templates/YM6vloMgY7Y",
-      "description": "A landing-page template with hero-section, footer, navigation",
+      "description": "Architecture firm landing page. Clean white minimal design with large serif headline 'Architecture that defines space and purpose', B&W building photography, and nav links to Portfolio, Expertise, Team, Contact.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -1444,7 +1444,7 @@
       "id": "ZIHJBIvfeuW",
       "name": "saas-dashboard-portfolio-2",
       "source_url": "https://v0.app/templates/ZIHJBIvfeuW",
-      "description": "A saas-dashboard template with charts, portfolio",
+      "description": "Web design agency landing page. Bold 'Bold web & product design for the builders of tomorrow' headline with mountain landscape photography. 'Start a project' CTA. 'Trusted By World Class Companies' social proof section.",
       "use_cases": [
         "saas-dashboard",
         "portfolio"
@@ -1472,7 +1472,7 @@
       "id": "ZRLaKEr8Otj",
       "name": "saas-dashboard-30",
       "source_url": "https://v0.app/templates/ZRLaKEr8Otj",
-      "description": "A saas-dashboard template with dashboard, charts",
+      "description": "Hotel management dashboard with sidebar nav (Check In-Out, Rooms, Messages, Reviews, Billing, Food Delivery). KPI cards for arrivals, departures, bookings. Revenue, guest, and room occupancy charts. Total revenue display.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1498,7 +1498,7 @@
       "id": "aAvJW0jB0OI",
       "name": "saas-dashboard-faq",
       "source_url": "https://v0.app/templates/aAvJW0jB0OI",
-      "description": "A saas-dashboard template with faq, charts",
+      "description": "FAQ/support page component. Clean white layout with expandable accordion questions about platform, pricing, support, and getting started. 'Still have questions?' section with 'Contact Support' CTA.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1524,7 +1524,7 @@
       "id": "b7GDYVxuoGC",
       "name": "saas-dashboard-31",
       "source_url": "https://v0.app/templates/b7GDYVxuoGC",
-      "description": "A saas-dashboard template with navigation, dashboard, charts",
+      "description": "Gamified team productivity dashboard with dark blue theme. 'M.O.N.K.Y. - The OS for Rebels' branding. KPI cards, line charts (Spendings/Sales/Coffee), notifications, Rebels Ranking, Security Status. Creative project management UI.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1552,7 +1552,7 @@
       "id": "cAawT1AJaki",
       "name": "saas-dashboard-32",
       "source_url": "https://v0.app/templates/cAawT1AJaki",
-      "description": "A saas-dashboard template with charts",
+      "description": "Artistic dark splash page with 'imagination is limit' centered serif text over black/blue gradient noise background. Minimal creative intro suitable for portfolios or artistic project landing pages.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1577,7 +1577,7 @@
       "id": "cJOO8mnVR01",
       "name": "landing-page-hero-section-6",
       "source_url": "https://v0.app/templates/cJOO8mnVR01",
-      "description": "A landing-page template with hero-section, charts",
+      "description": "Creative digital agency landing page with 'Create Without Limits' headline. Dark navy background with animated colorful rain streaks and 3D gold isometric typography. Work/About/Contact navigation.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -1604,7 +1604,7 @@
       "id": "cNW4Cl9EJYi",
       "name": "saas-dashboard-33",
       "source_url": "https://v0.app/templates/cNW4Cl9EJYi",
-      "description": "A saas-dashboard template with charts",
+      "description": "Scroll text animation component template. Note: may show build error due to missing 'use client' directive. Template renders animated scrolling text effects when the server/client component issue is fixed.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1630,7 +1630,7 @@
       "id": "d45bylq61Z7",
       "name": "saas-dashboard-34",
       "source_url": "https://v0.app/templates/d45bylq61Z7",
-      "description": "A saas-dashboard template with charts",
+      "description": "Sign-up page with split layout. Left: purple gradient with brand name and 3-step onboarding guide. Right: dark form with Google/GitHub social login, name/email/password fields. Suitable for SaaS onboarding.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1655,7 +1655,7 @@
       "id": "d7j5B58dlp4",
       "name": "saas-dashboard-authentication-blog",
       "source_url": "https://v0.app/templates/d7j5B58dlp4",
-      "description": "A saas-dashboard template with dashboard, charts, authentication",
+      "description": "Full-featured CMS admin panel with sidebar navigation. Sections include Dashboard, Analytics, Organization, E-commerce (Products, Orders, Customers), Finance (Transactions, Invoices, Payments), and Content Management.",
       "use_cases": [
         "saas-dashboard",
         "blog"
@@ -1684,7 +1684,7 @@
       "id": "dDPFIVqPGXR",
       "name": "landing-page-hero-section-testimonials-2",
       "source_url": "https://v0.app/templates/dDPFIVqPGXR",
-      "description": "A landing-page template with hero-section, testimonials, footer",
+      "description": "Web designer portfolio with playful white design. Pill-shaped navbar, highlighted name (pink) and location (blue) text, cartoon avatar illustration. 'Get in touch' and 'View portfolio' CTAs. Light, friendly aesthetic.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -1719,7 +1719,7 @@
       "id": "dNTdgBEhEAn",
       "name": "landing-page-hero-section-pricing-6",
       "source_url": "https://v0.app/templates/dNTdgBEhEAn",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "UI component library SaaS landing page. Dark theme with red/pink accents. 'Modern UI Components for Web Developers' headline. Built with shadcn/ui and Aceternity UI. Full nav with Features, Components, Testimonials, Pricing, Blog, FAQ.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -1754,7 +1754,7 @@
       "id": "eTc5ncilekt",
       "name": "saas-dashboard-35",
       "source_url": "https://v0.app/templates/eTc5ncilekt",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI image generation tool with dark olive/gold theme. Text-to-image prompt input, aspect ratio selector, image upload zones (primary + optional), and 'Run' button with result preview area. Nano Banana Starter template.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1779,7 +1779,7 @@
       "id": "ezmvVsZJxz8",
       "name": "saas-dashboard-36",
       "source_url": "https://v0.app/templates/ezmvVsZJxz8",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI-powered academic paper visualizer landing page. Dark theme with purple accents. 'Transform papers into visual learning' headline. Feature cards (Easy to Understand, Save Time, Adaptive Content) and PDF drag-and-drop upload zone.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1805,7 +1805,7 @@
       "id": "fUqrRFEXLnm",
       "name": "landing-page-hero-section-pricing-7",
       "source_url": "https://v0.app/templates/fUqrRFEXLnm",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "UI component library landing page with dark theme and muted green/copper accents. 'Reach developers & creators effortlessly' headline. Built with Tailwind CSS and Framer Motion. Nav: Features, Pricing, Testimonials, FAQ.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -1838,7 +1838,7 @@
       "id": "gMSHuT8iq4Y",
       "name": "saas-dashboard-37",
       "source_url": "https://v0.app/templates/gMSHuT8iq4Y",
-      "description": "A saas-dashboard template with charts",
+      "description": "Retro pixel-art blog with dark navy/green terminal aesthetic. Monospace font, keyboard-key category filters (Tech, Art, Finance), and pixel art branding. Articles on AI, IoT, and tech topics. Light/dark mode toggle.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1863,7 +1863,7 @@
       "id": "hI8ITRObdEz",
       "name": "saas-dashboard-38",
       "source_url": "https://v0.app/templates/hI8ITRObdEz",
-      "description": "A saas-dashboard template with charts",
+      "description": "Interactive dot-matrix world map visualization. White background with gray/cyan dots forming continents. Dark mode toggle button. Clean data visualization component for global analytics or location-based displays.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1888,7 +1888,7 @@
       "id": "hUI7hCyGNye",
       "name": "saas-dashboard-39",
       "source_url": "https://v0.app/templates/hUI7hCyGNye",
-      "description": "A saas-dashboard template with charts",
+      "description": "Infrastructure stats dashboard (Vercel-style). 'BLACK FRIDAY - CYBER MONDAY' metrics showing 115.8B total requests at 467K/s. Country breakdown by traffic. Sections for Total Deployments, Firewall Actions, Bot Management.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1913,7 +1913,7 @@
       "id": "hkRpZoLOrJC",
       "name": "saas-dashboard-40",
       "source_url": "https://v0.app/templates/hkRpZoLOrJC",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI image generation playground with dark teal theme. Text prompt input, aspect ratio control, dual image upload (drag & drop), 'Run' button, and generation history. Requires AI Gateway API key. By Vercel AI Gateway.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1938,7 +1938,7 @@
       "id": "jUBqSBJsNrz",
       "name": "saas-dashboard-41",
       "source_url": "https://v0.app/templates/jUBqSBJsNrz",
-      "description": "A saas-dashboard template with charts",
+      "description": "Business banking/finance dashboard. Clean white UI with sidebar nav (Dashboard, Analytics, Transactions, Invoices, Payments, Members, Chat, Meetings). Accounts overview ($6.4M), Recent Transactions, Quick Bill Pay, and Business Metrics.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1963,7 +1963,7 @@
       "id": "jV5ixbx4BOl",
       "name": "saas-dashboard-42",
       "source_url": "https://v0.app/templates/jV5ixbx4BOl",
-      "description": "A saas-dashboard template with charts",
+      "description": "AI chatbot starter with Claude integration. Centered white chat card with 'anthropic/claude-sonnet-4.5' model selector, Chatbot/Image mode toggle, and message input. Checkerboard mosaic background.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -1988,7 +1988,7 @@
       "id": "jz21jJIFr0i",
       "name": "landing-page-hero-section-testimonials-3",
       "source_url": "https://v0.app/templates/jz21jJIFr0i",
-      "description": "A landing-page template with hero-section, testimonials, footer",
+      "description": "3D model visualization template using React Three Fiber. Note: may show runtime error due to React version conflict. Template renders interactive 3D helmet/object with framer-motion animations when dependencies align.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -2021,7 +2021,7 @@
       "id": "mA8N4h1POSv",
       "name": "saas-dashboard-43",
       "source_url": "https://v0.app/templates/mA8N4h1POSv",
-      "description": "A saas-dashboard template with footer, navigation, charts",
+      "description": "Industrial designer portfolio with clean white minimal layout. Bold uppercase headline, Home/About/Contact nav, social links (Instagram, LinkedIn, GitHub), and blurred product photography. Professional and understated.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2048,7 +2048,7 @@
       "id": "mE2nwltmoDT",
       "name": "saas-dashboard-44",
       "source_url": "https://v0.app/templates/mE2nwltmoDT",
-      "description": "A saas-dashboard template with charts",
+      "description": "Artistic photo gallery/carousel with motion-blurred wildflower photography on black background. Film/analog aesthetic with card-like framing. Suitable for photography portfolios or art gallery sites.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2074,7 +2074,7 @@
       "id": "nbOFFTcUY21",
       "name": "saas-dashboard-45",
       "source_url": "https://v0.app/templates/nbOFFTcUY21",
-      "description": "A saas-dashboard template with charts",
+      "description": "Interactive WebGL lightning/wave shader visualization. Dark background with glowing blue sine wave animation. Control panel with Hue, Intensity, Speed, Size, Wave Length, and Offset sliders. Creative coding / generative art demo.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2099,7 +2099,7 @@
       "id": "o81c42y8OaI",
       "name": "landing-page-hero-section-blog-2",
       "source_url": "https://v0.app/templates/o81c42y8OaI",
-      "description": "A landing-page template with hero-section, footer, navigation",
+      "description": "Personal portfolio with dark theme. 'Vibecoder & Growth Strategist' headline highlighting UX, Web3, and AI expertise. Feature cards for skills, remote work, and impact metrics. Full nav: Bio, Portfolio, Podcast, Articles, Talks.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -2132,7 +2132,7 @@
       "id": "oZxBJ6zcOsz",
       "name": "saas-dashboard-46",
       "source_url": "https://v0.app/templates/oZxBJ6zcOsz",
-      "description": "A saas-dashboard template with navigation, charts",
+      "description": "Customer feedback/survey page. Split layout with minimalist product photography on left, service feedback question on right. 'Takes less than 2 minutes' note. Clean, elegant design for post-purchase or NPS surveys.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2158,7 +2158,7 @@
       "id": "ppoa1Yu4KX9",
       "name": "saas-dashboard-47",
       "source_url": "https://v0.app/templates/ppoa1Yu4KX9",
-      "description": "A saas-dashboard template with charts",
+      "description": "Tote bag e-commerce store with sidebar dashboard. Hero banners for collections and flash sales (75% off). Shopping cart panel showing canvas totes with pricing. Popular Collection product grid. Clean green/white palette.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2183,7 +2183,7 @@
       "id": "qK8iWfx4VMX",
       "name": "saas-dashboard-blog-2",
       "source_url": "https://v0.app/templates/qK8iWfx4VMX",
-      "description": "A saas-dashboard template with charts, blog",
+      "description": "Interactive 3D particle text visualization on black background. Logo rendered as scattered white particles with animation controls (Explode, Scatter, Implode, Spiral). Light Scatter mode. Creative WebGL/canvas demo.",
       "use_cases": [
         "saas-dashboard",
         "blog"
@@ -2210,7 +2210,7 @@
       "id": "sV0OtrkXM6x",
       "name": "landing-page-hero-section-pricing-8",
       "source_url": "https://v0.app/templates/sV0OtrkXM6x",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "Team communication SaaS landing page. Clean white/purple theme with 'Streamlined Communication for Iterating Fast' headline. Self-hosted chat system. '1,254 happy customers' social proof. Request Demo and Get Started CTAs.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -2244,7 +2244,7 @@
       "id": "shuOX59VNOv",
       "name": "saas-dashboard-48",
       "source_url": "https://v0.app/templates/shuOX59VNOv",
-      "description": "A saas-dashboard template with navigation, dashboard, charts",
+      "description": "Investment/trading dashboard (FINBRO). Dark theme with green accents. Portfolio overview ($6,810 current, +30.46% returns), TSLA stock performance chart with timeframe toggles (1D/1M/3M/6M/1Y). Sidebar: Dashboard, Analytics, Arbitrader, Researcher, Funds.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2271,7 +2271,7 @@
       "id": "tnZGzubtsTc",
       "name": "landing-page-hero-section-blog-3",
       "source_url": "https://v0.app/templates/tnZGzubtsTc",
-      "description": "A landing-page template with hero-section, navigation, charts",
+      "description": "Fintech/investment landing page with dark theme and animated particle wave background. 'Unlock your future growth' headline with gold accents. Investment strategy messaging. Nav: About, Portfolio, Insights, Contact.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -2301,7 +2301,7 @@
       "id": "uKH9CN6hQxc",
       "name": "landing-page-hero-section-blog-4",
       "source_url": "https://v0.app/templates/uKH9CN6hQxc",
-      "description": "A landing-page template with hero-section, navigation, charts",
+      "description": "Personal portfolio/resume template with profile photo. Simple layout showing professional headshot. Minimal structure suitable for personal branding or CV websites.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
@@ -2331,7 +2331,7 @@
       "id": "v1tIli3svjV",
       "name": "saas-dashboard-49",
       "source_url": "https://v0.app/templates/v1tIli3svjV",
-      "description": "A saas-dashboard template with charts",
+      "description": "Brand designer job posting / creative portfolio page. Dark theme with elegant script headline 'Brand Designer at Luma?'. Video/image grid showcasing creative work. 'Show Frames' and 'Autoplay All' media controls.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2357,7 +2357,7 @@
       "id": "v9Hg1dBb5o3",
       "name": "saas-dashboard-50",
       "source_url": "https://v0.app/templates/v9Hg1dBb5o3",
-      "description": "A saas-dashboard template with charts",
+      "description": "Military/spy-themed operations dashboard (TACTICAL OPS). Dark theme with orange/amber accents. Agent Allocation stats, Activity Log with codenames, Encrypted Chat Activity radar, Mission Activity charts, and Mission Information breakdown.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2382,7 +2382,7 @@
       "id": "vxcruW9ipr4",
       "name": "saas-dashboard-ecommerce-2",
       "source_url": "https://v0.app/templates/vxcruW9ipr4",
-      "description": "A saas-dashboard template with navigation, charts, ecommerce",
+      "description": "UI component library template (KokonutUI). Note: may show build error due to JSX syntax issue in top-bar component. Template provides a component showcase when the syntax error is fixed.",
       "use_cases": [
         "saas-dashboard",
         "ecommerce"
@@ -2410,7 +2410,7 @@
       "id": "wLNaRFCBQhd",
       "name": "saas-dashboard-51",
       "source_url": "https://v0.app/templates/wLNaRFCBQhd",
-      "description": "A saas-dashboard template with charts",
+      "description": "Coming Soon page with pink marble/liquid art background. Email newsletter signup input with submit arrow. 'Don't miss out on the latest news' messaging. Suitable for pre-launch or waitlist pages.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2435,7 +2435,7 @@
       "id": "wNB9dqGZXGU",
       "name": "landing-page-hero-section-testimonials-4",
       "source_url": "https://v0.app/templates/wNB9dqGZXGU",
-      "description": "A landing-page template with hero-section, testimonials, footer",
+      "description": "AI automation SaaS landing page targeting local businesses. 'Elevate your Business Efficiency' animated headline. Industry nav (Dentists, Barbers, Restaurants, Car Dealerships). Smart chat and workflow automation. Logo bar of trusted companies.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -2466,7 +2466,7 @@
       "id": "wWvJxkk3ra7",
       "name": "landing-page-hero-section-7",
       "source_url": "https://v0.app/templates/wWvJxkk3ra7",
-      "description": "A landing-page template with hero-section, footer, navigation",
+      "description": "Atmospheric mountain landscape hero landing page. B&W photography with 'Where Ideas Learn to Breathe' headline. 'A landing space for bold experiments and sparks of inspiration.' Minimal, evocative design.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -2496,7 +2496,7 @@
       "id": "wvXzAf0NBYB",
       "name": "saas-dashboard-52",
       "source_url": "https://v0.app/templates/wvXzAf0NBYB",
-      "description": "A saas-dashboard template with charts",
+      "description": "Designer resume/CV website with dark theme and pink halftone dot-matrix portrait art. Monospace typography showing work history timeline. Links to Twitter, Email, Blog. Minimalist, code-style aesthetic.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2521,7 +2521,7 @@
       "id": "x5UGPjYkxIn",
       "name": "saas-dashboard-53",
       "source_url": "https://v0.app/templates/x5UGPjYkxIn",
-      "description": "A saas-dashboard template with charts",
+      "description": "macOS boot screen simulation with Apple logo and loading progress bar on black background. Creative/novelty CSS animation template. Fun standalone component.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2546,7 +2546,7 @@
       "id": "xU39T0XywpR",
       "name": "saas-dashboard-54",
       "source_url": "https://v0.app/templates/xU39T0XywpR",
-      "description": "A saas-dashboard template with footer, charts",
+      "description": "Newsletter/waitlist signup page with surreal fantasy landscape background (floating rocks, clouds, desert). Elegant serif branding, email input, 'Manifesto' link, and social icons (Instagram, X, GitHub).",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2573,7 +2573,7 @@
       "id": "xYqdqPAJD3j",
       "name": "saas-dashboard-55",
       "source_url": "https://v0.app/templates/xYqdqPAJD3j",
-      "description": "A saas-dashboard template with charts",
+      "description": "Creative design suite dashboard/app. Sidebar nav (Home, Apps, Files, Projects, Learn, Community, Resources). Purple gradient premium banner. Recent Apps grid (PixelMaster, VectorPro, VideoStudio). 'Install App' and 'New Project' actions.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2599,7 +2599,7 @@
       "id": "xsWGOZF9wTT",
       "name": "landing-page-hero-section-pricing-9",
       "source_url": "https://v0.app/templates/xsWGOZF9wTT",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "AI cybersecurity SaaS landing page. Dark blue cinematic theme with silhouetted figures in glowing mountain doorway. 'AI Defense That Sees Through the Dark' headline. 'Deploy the Sentinel' and 'Read the Whitepaper' CTAs.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -2631,7 +2631,7 @@
       "id": "ydltQUzdKLK",
       "name": "saas-dashboard-56",
       "source_url": "https://v0.app/templates/ydltQUzdKLK",
-      "description": "A saas-dashboard template with charts",
+      "description": "Travel/adventure expedition landing page. Full-bleed aerial jungle photo with 'Enter a Lost World' headline about cave exploration in Vietnam. 'Book Your Expedition' and 'View Itinerary' CTAs. Nav: The Expedition, Safety, Gallery, FAQ.",
       "use_cases": [
         "saas-dashboard"
       ],
@@ -2656,7 +2656,7 @@
       "id": "zdiN8dHwaaT",
       "name": "landing-page-hero-section-pricing-10",
       "source_url": "https://v0.app/templates/zdiN8dHwaaT",
-      "description": "A landing-page template with hero-section, pricing, testimonials",
+      "description": "Contract billing SaaS landing page. Clean white/warm design with elegant serif typography. 'Effortless custom contract billing' headline. Nav: Products, Pricing, Docs. 'Start for free' CTA. Embedded dashboard preview.",
       "use_cases": [
         "landing-page",
         "saas-dashboard"
@@ -2689,7 +2689,7 @@
       "id": "zoQPxUaTqvE",
       "name": "landing-page-hero-section-pricing-11",
       "source_url": "https://v0.app/templates/zoQPxUaTqvE",
-      "description": "A landing-page template with hero-section, pricing, faq",
+      "description": "AI communication analytics SaaS landing page. Clean light theme with split hero layout. 'The Intelligence Layer for Modern Communication' headline. Real-time insights, tone analysis, team alignment. 'Start analyzing' and 'View API Docs' CTAs.",
       "use_cases": [
         "landing-page",
         "saas-dashboard",
