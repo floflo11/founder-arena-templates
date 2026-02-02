@@ -1,7 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { Manrope } from "next/font/google"
-import localFont from "next/font/local"
+import { Manrope, DM_Sans, Instrument_Sans } from "next/font/google"
 import "./globals.css"
 
 const manrope = Manrope({
@@ -9,14 +8,15 @@ const manrope = Manrope({
   variable: "--font-manrope"
 })
 
-const calSans = localFont({
-  src: "./fonts/CalSans-SemiBold.woff2",
+const calSans = DM_Sans({
+  subsets: ["latin"],
+  weight: ["600"],
   variable: "--font-cal-sans",
   display: "swap"
 })
 
-const instrumentSans = localFont({
-  src: "./fonts/InstrumentSans-Variable.woff2",
+const instrumentSans = Instrument_Sans({
+  subsets: ["latin"],
   variable: "--font-instrument-sans",
   display: "swap"
 })

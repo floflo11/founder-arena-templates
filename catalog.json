@@ -197,7 +197,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/99MAOQptgL3 my-project",
       "collected_at": "2026-01-29T00:04:06.803Z",
-      "subdomain": "saas-dashboard-4.founderarena.org"
+      "subdomain": "saas-dashboard-4.founderarena.org",
+      "preview_url": "https://tpl-99maoqptgl3.founderarena.org"
     },
     {
       "id": "9FIZoMXO1Us",
@@ -644,7 +645,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/Kt7yUWUBUBN my-project",
       "collected_at": "2026-01-29T00:05:54.711Z",
-      "subdomain": "saas-dashboard-14.founderarena.org"
+      "subdomain": "saas-dashboard-14.founderarena.org",
+      "preview_url": "https://saas-dashboard-14.founderarena.org"
     },
     {
       "id": "Ln5i4EVw63N",
@@ -966,7 +968,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/R3n0gnvYFbO my-project",
       "collected_at": "2026-01-29T00:05:54.719Z",
-      "subdomain": "saas-dashboard-20.founderarena.org"
+      "subdomain": "saas-dashboard-20.founderarena.org",
+      "preview_url": "https://saas-dashboard-20.founderarena.org"
     },
     {
       "id": "RjIZayM2Jjj",
@@ -1376,7 +1379,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/XhGK3naSZPB my-project",
       "collected_at": "2026-01-29T00:05:54.734Z",
-      "subdomain": "landing-page-hero-section-5.founderarena.org"
+      "subdomain": "landing-page-hero-section-5.founderarena.org",
+      "preview_url": "https://landing-page-hero-section-5.founderarena.org"
     },
     {
       "id": "XmzC9oi7g4m",
@@ -1678,7 +1682,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/d7j5B58dlp4 my-project",
       "collected_at": "2026-01-29T00:05:54.749Z",
-      "subdomain": "saas-dashboard-authentication-blog.founderarena.org"
+      "subdomain": "saas-dashboard-authentication-blog.founderarena.org",
+      "preview_url": "https://saas-dashboard-authentication-blog.founderarena.org"
     },
     {
       "id": "dDPFIVqPGXR",
@@ -2295,7 +2300,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/tnZGzubtsTc my-project",
       "collected_at": "2026-01-29T00:05:54.783Z",
-      "subdomain": "landing-page-hero-section-blog-3.founderarena.org"
+      "subdomain": "landing-page-hero-section-blog-3.founderarena.org",
+      "preview_url": "https://landing-page-hero-section-blog-3.founderarena.org"
     },
     {
       "id": "uKH9CN6hQxc",
@@ -2460,7 +2466,8 @@
       ],
       "clone_command": "npx degit floflo11/founder-arena-templates/templates/wNB9dqGZXGU my-project",
       "collected_at": "2026-01-29T00:05:54.791Z",
-      "subdomain": "landing-page-hero-section-testimonials-4.founderarena.org"
+      "subdomain": "landing-page-hero-section-testimonials-4.founderarena.org",
+      "preview_url": "https://landing-page-hero-section-testimonials-4.founderarena.org"
     },
     {
       "id": "wWvJxkk3ra7",
